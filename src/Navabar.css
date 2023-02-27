@@ -1,0 +1,24 @@
+
+
+
+
+
+#navbarNav{
+   /* position: fixed; */
+   text-align:right;
+  
+}
+
+.navbar-dark .navbar-nav .nav-link {
+   color: black !important;
+}
+
+
+.Register{
+   padding-left: 831px;
+}
+
+.Login{
+   padding-left: 30px;
+}
+
